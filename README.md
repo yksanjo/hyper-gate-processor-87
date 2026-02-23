@@ -1,5 +1,12 @@
 # hyper-gate-processor-87
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/hyper-gate-processor-87/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/hyper-gate-processor-87/actions)
+![License](https://img.shields.io/github/license/yksanjo/hyper-gate-processor-87)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/hyper-gate-processor-87)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/hyper-gate-processor-87)
+
 ## Detailed Description
 
 hyper-gate-processor-87 is maintained as an industry-grade software project with production-ready engineering practices.  
